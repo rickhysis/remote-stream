@@ -1,0 +1,15 @@
+{
+    "name": "socket-remote-slide",
+    "version": "0.0.1",
+    "description": "wtf",
+    "dependencies": {
+        "express": "^4.15.2",
+        "socket.io": "^1.7.3"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "devDependencies": {
+        "cors": "^2.8.5"
+    }
+}
